@@ -1,0 +1,33 @@
+body{
+	
+	
+}
+.poks{
+	display: flex;
+	flex-wrap: wrap;
+	width: 60%;
+}
+.pokemonCard{
+	display: flex;
+	width: 220px;
+  height: 280px; 
+  flex-direction: column;
+  border: 1px solid black;
+  margin-right: 50px;
+  margin-bottom: 30px;
+}
+img{
+	width: 111px;
+	margin: auto;
+}
+
+h3{
+	text-align: center;
+}
+
+.load{
+	width: 55%;
+	background-color: #3286FC;
+	color: white;
+	height: 50px;
+}
